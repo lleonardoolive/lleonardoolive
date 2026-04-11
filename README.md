@@ -1,5 +1,5 @@
 # Olá, eu sou o Leonardo Oliveira, 
-### profissional da educação (Inglês/Artes) em transição para a tecnologia. Atualmente, estou mergulhado no **CS50 de Harvard**, enquanto busco ingressar na faculdade de Ciência da Computação. Até lá, seguiremos estudando! 
+### profissional da educação (Inglês/Artes) em transição para a tecnologia. Atualmente, estou mergulhado no **[CS50 de Harvard]**(https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home), enquanto busco ingressar na faculdade de Ciência da Computação. Até lá, seguiremos estudando! 
 
 ##👨‍🏫 Educator | 💻 CS50 Student | 🔐 Cybersecurity Aspirant
 
