@@ -17,7 +17,4 @@ Sou um
 
 ### 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](COLOQUE_O_LINK_DO_SEU_PERFIL_AQUI)
-
----
-*"O computador não faz o que você quer, ele faz o que você manda."*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lleonardooliv/)
