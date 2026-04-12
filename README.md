@@ -1,20 +1,42 @@
-# Olá, eu sou o Leonardo Oliveira, 
-#### profissional da educação (Inglês/Artes) em transição para a tecnologia. Atualmente, estou mergulhado no **[CS50 de Harvard](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home)**, enquanto busco ingressar na faculdade de Ciência da Computação. Até lá, seguiremos estudando! 
+# Hi, there! I am Leonardo Oliveira, 
+#### Currently an English Teacher in transition to IT and Tech areas. I'm enrolled in **[Harvard's CS50](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home)** as a beginner, but I had already worked some years on a Hardware store. My current goals are to get a Computer Science bachelor's degree, and get my first opportunity in the area.
 
 ## 👨‍🏫 Educator | 💻 CS50 Student | 🔐 Cybersecurity Aspirant
 
-Sou um 
-
-- 🎓 **Foco Atual:** CS50 Introduction to Computer Science (Harvard).
-- 🛡️ **Interesses:** Cybersecurity, Back End Development e Automação com Python.
-- 🎹 **Curiosidades:** Estudo teoria musical, toco piano e violão, e sou entusiasta de hardware e retro gaming. Meu jogo favorito é ![esse aqui](worldofwarcraft.blizzard.com)! Aliás, pela Horda! 
+- 🎓 **Current focus:** CS50 Introduction to Computer Science (Harvard).
+- 🛡️ **I enjoy:** Cybersecurity, Back End Development and Automation with Python.
+- 🎹 **When not coding:** I love playing guitar and the piano, and also enjoy gaming and hardware. My favorite game is [World of Warcraft](https://worldofwarcraft.blizzard.com/pt-br/character/us/azralon/manuella/). **FOR THE HORDE**, by the way.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas em Estudo
+### 🛠️ Minha jornada no CS50 de Harvard
+ 
+- [x] Week 0 - Scratch
+
+- [ ] Week 1 - C
+
+- [ ] Week 2 - Arrays
+
+- [ ] Week 3 - Algorithms
+
+- [ ] Week 4 - Memory
+
+- [ ] Week 5 - Data Structures
+
+- [ ] Week 6 - Python
+
+- [ ] Week 7 - SQL
+
+- [ ] Artificial Intelligence
+
+- [ ] Week 8 - HTML, CSS, JavaScript
+
+- [ ] Week 9 - Flask
+
+- [ ] Week 10 - The End
 
 ---
 
-### 📫 Vamos nos conectar?
+### 📫 Quer saber um pouco mais sobre meu trabalho?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lleonardooliv/)
