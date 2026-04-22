@@ -38,10 +38,10 @@
 ---
 ### Previous Experience:
 
-- [x] Bachelor's in Languages - Portuguese and English - via Federal University of Lavras;
-- [x] Studied: Cybersecurity and its Ten Domains - via Coursera (online); by University System of Georgia;
-- [x] Studied: Cloud and Cybersecurity Minicamp - via XP Educação Faculty (online); 32h duration;
-- [x] Large experience: I worked on a local hardware store for 10 years;
+- [x] Bachelor's in **Languages - Portuguese and English** - via Federal University of Lavras;
+- [x] Studied: **Cybersecurity and its Ten Domains** - via Coursera (online); by University System of Georgia;
+- [x] Studied: **Cloud and Cybersecurity Minicamp** - via XP Educação Faculty (online); 32h duration;
+- [x] Large experience: I **worked on a local hardware store for 10 years**;
 
 ### Check my career below:
 
