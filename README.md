@@ -9,11 +9,11 @@
 
 ---
 
-### 🛠️ Minha jornada no CS50 de Harvard
+### 🛠️ My CS50's journey:
  
 - [x] Week 0 - Scratch
 
-- [ ] Week 1 - C
+- [x] Week 1 - C
 
 - [ ] Week 2 - Arrays
 
@@ -36,7 +36,12 @@
 - [ ] Week 10 - The End
 
 ---
+### Previous Experience:
 
-### 📫 Quer saber um pouco mais sobre meu trabalho?
+- [x] Bachelor's in Languages - Portuguese and English - via Federal University of Lavras;
+- [x] Studied: Cybersecurity and its Ten Domains - via Coursera (online);
+- [x] Large experience: I worked on a local hardware store for 10 years;
+
+### Check my career below:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lleonardooliv/)
